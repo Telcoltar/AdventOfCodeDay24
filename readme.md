@@ -1,4 +1,4 @@
-# Advent of Code Day 23
+# Advent of Code Day 24
 [Link to Advent of Code](https://adventofcode.com/)
 
 Solution for Part 1 and 2 with typing. Again I have left out the inputData.
